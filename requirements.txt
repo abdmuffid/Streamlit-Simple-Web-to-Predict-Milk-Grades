@@ -1,2 +1,0 @@
-GitPython==3.1.31
-pycaret==2.3.10
