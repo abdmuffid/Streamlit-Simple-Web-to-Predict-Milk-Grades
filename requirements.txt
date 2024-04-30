@@ -1,2 +1,2 @@
-python==3.9
+python==3.9.19
 pycaret==2.3.10
