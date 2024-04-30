@@ -41,14 +41,11 @@ def explain_owner():
     
     if socmed_option:
         if socmed_option == "Instagram":
-            if st.button("Visit Instagram"):
-                webbrowser.open_new_tab("https://www.instagram.com/abd_muffid")
+            st.markdown("[<button style='background-color: transparent; color: #125688; padding: 8px 15px; border: 1px solid #125688; border-radius: 4px; cursor: pointer;'>Visit Instagram</button>](https://www.instagram.com/abd_muffid)", unsafe_allow_html=True)
         elif socmed_option == "GitHub":
-            if st.button("Visit GitHub"):
-                webbrowser.open_new_tab("https://github.com/abdmuffid")
+            st.markdown("[<button style='background-color: transparent; color: #333333; padding: 8px 15px; border: 1px solid #333333; border-radius: 4px; cursor: pointer;'>Visit GitHub</button>](https://github.com/abdmuffid)", unsafe_allow_html=True)
         elif socmed_option == "LinkedIn":
-            if st.button("Visit LinkedIn"):
-                webbrowser.open_new_tab("https://www.linkedin.com/in/abdul-muffid-9065b3246")
+            st.markdown("[<button style='background-color: transparent; color: #0e76a8; padding: 8px 15px; border: 1px solid #0e76a8; border-radius: 4px; cursor: pointer;'>Visit LinkedIn</button>](https://www.linkedin.com/in/abdul-muffid-9065b3246)", unsafe_allow_html=True)
     
 def explain_dataset():
     st.title("Milk Dataset")
