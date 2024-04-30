@@ -1,4 +1,3 @@
-pip install requirements.txt
 from pycaret.classification import *
 import streamlit as st
 from streamlit_option_menu import option_menu
