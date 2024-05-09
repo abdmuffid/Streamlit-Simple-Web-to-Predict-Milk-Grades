@@ -32,11 +32,11 @@ This is an example of how to list things you need to use the software and how to
         ```
     > Note: If you don't have python installed, you can download it [here](https://www.python.org/downloads/)
 
-    * Git
+ 2. Git
     
-        ```sh
-        git --version 
-        ```
+    ```sh
+    git --version 
+    ```
     > Note: If you don't have git installed, you can download it [here](https://git-scm.com/downloads)
 
 ### Installation
