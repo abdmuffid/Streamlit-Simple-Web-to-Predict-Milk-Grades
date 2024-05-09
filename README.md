@@ -1,4 +1,4 @@
-# Simple Web to Predict Milk Grades [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milk-grades-prediction.streamlit.app/)
+# Milk Grades Prediction   [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milk-grades-prediction.streamlit.app/)
 
 ## About The Project
 
@@ -7,9 +7,9 @@ This web hosts a Machine Learning Operations (ML-Ops) project aimed at creating 
 
 ### Preview
 
-![image](https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades/Images/Preview-1.jpg)
-![image](https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades/Images/Preview-2.jpg)
-![image](https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades/Images/Preview-3.jpg)
+![Preview 1](Images/Preview-1.jpg)
+![Preview 2](Images/Preview-2.jpg)
+![Preview 3](Images/Preview-3.jpg)
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ This is an example of how to list things you need to use the software and how to
 2. Navigate to the project directory:
 
     ```sh
-    cd streamlit-replicate-img-app
+    cd Streamlit-Simple-Web-to-Predict-Milk-Grades
     ```
 
 3. Create python environment
@@ -61,12 +61,12 @@ This is an example of how to list things you need to use the software and how to
 
 4. Activate python environment
 
-    * for Windows OS
+    * For Windows OS
       ```sh
       env\Scripts\activate
       ```
 
-    * for Unix Based OS (Linux, MacOS, etc)
+    * For Unix Based OS (Linux, MacOS, etc)
       ```sh
       source env/bin/activate
       ```
