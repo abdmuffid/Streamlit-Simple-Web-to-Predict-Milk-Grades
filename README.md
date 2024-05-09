@@ -47,7 +47,7 @@ This is an example of how to list things you need to use the software and how to
     git clone https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
     ```sh
     cd Streamlit-Simple-Web-to-Predict-Milk-Grades
