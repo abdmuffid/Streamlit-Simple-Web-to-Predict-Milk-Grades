@@ -13,11 +13,11 @@ This project hosts a Machine Learning Operations (ML-Ops) project aimed at creat
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Before running the web application, please ensure you have the following prerequisites installed.
 
 1. Python
 
