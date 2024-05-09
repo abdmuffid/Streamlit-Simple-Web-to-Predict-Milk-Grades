@@ -3,7 +3,7 @@
 ## About the Project
 
 ### Description
-This web hosts a Machine Learning Operations (ML-Ops) project aimed at creating a simple web application to predict milk grades using Streamlit, a popular Python library for building interactive web applications. The project leverages a Random Forest Classifier model, enhanced with PyCaret, a low-code machine learning library, to predict the quality grades of milk based on various factors such as pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
+This project hosts a Machine Learning Operations (ML-Ops) project aimed at creating a simple web application to predict milk grades using Streamlit, a popular Python library for building interactive web applications. The project leverages a Random Forest Classifier model, enhanced with PyCaret, a low-code machine learning library, to predict the quality grades of milk based on various factors such as pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
 
 ### Preview
 
@@ -30,14 +30,14 @@ This is an example of how to list things you need to use the software and how to
         ```sh
         python3 --version 
         ```
-    > Note: If you don't have python installed, you can download it [here](https://www.python.org/downloads/)
+    > Note: If you don't have python installed, you can download it [here](https://www.python.org/downloads/).
 
  2. Git
     
     ```sh
     git --version 
     ```
-    > Note: If you don't have git installed, you can download it [here](https://git-scm.com/downloads)
+    > Note: If you don't have git installed, you can download it [here](https://git-scm.com/downloads).
 
 ### Installation
 
