@@ -68,9 +68,9 @@ git --version
       ```
 
     * for Unix Based OS (Linux, MacOS, etc)
-    ```sh
-    source env/bin/activate
-    ```
+      ```sh
+      source env/bin/activate
+      ```
 
 5. Install the dependencies
 
