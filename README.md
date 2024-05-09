@@ -44,46 +44,45 @@ git --version
 
 1. Clone the repository
 
-```sh
-git clone https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades.git
-```
+  ```sh
+  git clone https://github.com/abdmuffid/Streamlit-Simple-Web-to-Predict-Milk-Grades.git
+  ```
 
 2. Navigate to the project directory:
 
-```sh
-cd streamlit-replicate-img-app
-```
+  ```sh
+  cd streamlit-replicate-img-app
+  ```
 
 3. Create python environment
 
-```sh
-python -m venv env
-```
+  ```sh
+  python -m venv env
+  ```
 
 4. Activate python environment
 
-* for Windows OS
-```sh
-env\Scripts\activate
-```
+  * for Windows OS
+    ```sh
+    env\Scripts\activate
+    ```
 
-* for Unix Based OS (Linux, MacOS, etc)
-```sh
-source env/bin/activate
-```
+  * for Unix Based OS (Linux, MacOS, etc)
+    ```sh
+    source env/bin/activate
+    ```
 
 5. Install the dependencies
 
-```sh
-pip install -r requirements.txt
-```nstall -r requirements.txt
-```
+  ```sh
+  pip install -r requirements.txt
+  ```
 
 6. Run the Streamlit app:
 
-```python
-streamlit run streamlit_app.py
-```
+  ```python
+  streamlit run streamlit_app.py
+  ```
 
 ## License
 
