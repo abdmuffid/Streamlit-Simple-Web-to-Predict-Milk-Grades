@@ -80,7 +80,7 @@ Before running the web application, please ensure you have the following prerequ
 6. Run the Streamlit app
 
     ```python
-    streamlit run streamlit_app.py
+    streamlit run web.py
     ```
 
 ## License
