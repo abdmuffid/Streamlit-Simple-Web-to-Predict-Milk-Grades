@@ -1,12 +1,5 @@
-<p align="center">
-  <h1 align="center">
-    ML-Ops Project: Simple Web to Predict Milk Grades
-  </h1>
-</p>
-
-<p align="center">
-  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milk-grades-prediction.streamlit.app/)
-</p>
+# ML-Ops Project: Simple Web to Predict Milk Grades
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milk-grades-prediction.streamlit.app/)
 
 ## About The Project
 
