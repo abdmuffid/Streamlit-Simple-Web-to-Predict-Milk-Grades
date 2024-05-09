@@ -1,6 +1,6 @@
 # Milk Grades Prediction   [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://milk-grades-prediction.streamlit.app/)
 
-## About The Project
+## About the Project
 
 ### Description
 This web hosts a Machine Learning Operations (ML-Ops) project aimed at creating a simple web application to predict milk grades using Streamlit, a popular Python library for building interactive web applications. The project leverages a Random Forest Classifier model, enhanced with PyCaret, a low-code machine learning library, to predict the quality grades of milk based on various factors such as pH, Temperature, Taste, Odor, Fat, Turbidity, and Color.
